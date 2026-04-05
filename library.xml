@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <collection name="British Library Semantik Arşiv">
+        
+        <item>
+            <title>Diamond Sutra</title>
+            <date>MS 868</date>
+            <type>Woodblock Print</type>
+            <description>Dünyanın bilinen en eski tarihli, tam ve basılı kitabıdır. Dunhuang, Çin'deki "Bin Buda Mağaraları"nda keşfedilen bu rulo, matbaa teknolojisinin Asya'daki erken gelişiminin en kıymetli tanığıdır.</description>
+            <image>Diamonsutra.jpg</image>
+        </item>
+
+        <item>
+            <title>Magna Carta</title>
+            <date>1215</date>
+            <type>Hukuk Belgesi</type>
+            <description>Kral John tarafından yayınlanan bu tarihi belge, kralın yetkilerini kanunla sınırlayarak modern demokrasinin ve hukukun üstünlüğünün temelini atmıştır. Hukuk tarihinin en önemli köşe taşlarından biridir.</description>
+            <image>Magnacarta.jpg</image>
+        </item>
+
+        <item>
+            <title>Codex Arundel</title>
+            <date>1508</date>
+            <type>El Yazması</type>
+            <description>Leonardo da Vinci'nin bilimsel not defteridir. Mekanik, geometri ve suyun hareketi gibi konularda, ünlü "ayna yazısı" ile tutulmuş notlarını ve detaylı çizimlerini içeren benzersiz bir deha ürünüdür.</description>
+            <image>Codexarundel.jpg</image>
+        </item>
+
+        <item>
+            <title>Beowulf</title>
+            <date>MS 1000</date>
+            <type>Epik Destan</type>
+            <description>Anglo-Sakson edebiyatının en önemli ve en uzun destanıdır. Eski İngilizce dilinde yazılmış olan bu tek orijinal nüsha, kahraman Beowulf'un canavarlarla olan efsanevi mücadelesini anlatır.</description>
+            <image>Beowulf Manuscript.jpg</image>
+        </item>
+
+        <item>
+            <title>Lindisfarne Gospels</title>
+            <date>MS 715</date>
+            <type>Dini Sanat</type>
+            <description>Erken Orta Çağ'ın en süslü el yazması dini metnidir. Kelt ve Roma sanat stillerini birleştiren, göz alıcı "halı sayfaları" illüstrasyonları ile kütüphanenin en değerli görsel hazinelerindendir.</description>
+            <image>Lindisfarne Gospels.jpg</image>
+        </item>
+
+        <item>
+            <title>Gutenberg Bible</title>
+            <date>1455</date>
+            <type>Matbaa Devrimi</type>
+            <description>Avrupa'da hareketli harflerle basılan ilk kitaptır. Johannes Gutenberg'in bu eseri, bilgiye erişimde bir devrim yaratarak modern dünyanın ve yayıncılığın başlamasına öncülük etmiştir.</description>
+            <image>Gutenberg Bible.jpg</image>
+        </item>
+
+        <item>
+            <title>Shakespeare's First Folio</title>
+            <date>1623</date>
+            <type>Edebiyat Klasikleri</type>
+            <description>William Shakespeare'in oyunlarının toplandığı ilk baskıdır. Bu eser olmasaydı, ünlü yazarın birçok oyunu günümüze ulaşamayabilirdi. Dünya edebiyat tarihinin en prestijli kitaplarından biridir.</description>
+            <image>Shakespeare's First Folio.jpg</image>
+        </item>
+
+        <item>
+            <title>Codex Sinaiticus</title>
+            <date>MS 350</date>
+            <type>Teoloji</type>
+            <description>Dünyanın en eski tam İncil nüshalarından biridir. Elle parşömen üzerine yazılmış olan bu kodeks, metin eleştirisi ve teoloji çalışmaları için paha biçilemez bir kaynak niteliğindedir.</description>
+            <image>Codex Sinaiticus.jpg</image>
+        </item>
+
+        <item>
+            <title>Sherlock Holmes MS</title>
+            <date>1904</date>
+            <type>Modern Edebiyat</type>
+            <description>Arthur Conan Doyle'un orijinal el yazısı notlarını içerir. Dünyanın en ünlü dedektifinin hikayelerinin nasıl şekillendiğini gösteren bu taslaklar, edebi sürecin mutfağına ışık tutmaktadır.</description>
+            <image>Sherlock Holmes MS.jpg</image>
+        </item>
+
+        <item>
+            <title>The Beatles Lyrics</title>
+            <date>1960s</date>
+            <type>Popüler Kültür</type>
+            <description>Lennon ve McCartney'nin el yazısı şarkı sözü taslaklarıdır. Popüler kültür tarihine damga vuran şarkıların ilk hallerini barındıran bu koleksiyon, modern arşivciliğin kapsamını sergiler.</description>
+            <image>The Beatles Lyrics.jpg</image>
+        </item>
+
+    </collection>
+</library>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>British Library: Semantik Arşiv Koleksiyonu</title>
+    <style>
+        :root { --main-color: #a52a2a; --bg: #f9f7f2; --text: #2c3e50; }
+        body { font-family: 'Georgia', serif; background: var(--bg); margin: 0; padding: 40px; color: var(--text); }
+        header { text-align: center; border-bottom: 3px double var(--main-color); margin-bottom: 40px; padding-bottom: 20px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
+        .card { background: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 5px 5px 0px #eee; transition: 0.3s; display: flex; flex-direction: column; cursor: pointer; }
+        .card:hover { transform: translateY(-5px); border-color: var(--main-color); }
+        .card img { width: 100%; height: 220px; object-fit: cover; border-radius: 4px; margin-bottom: 15px; border: 1px solid #eee; }
+        .card h3 { color: var(--main-color); margin: 0 0 10px 0; font-size: 1.25rem; }
+        .tag { font-size: 0.75rem; background: #eee; padding: 3px 10px; border-radius: 12px; font-weight: bold; color: #666; }
+        .desc { font-size: 0.9rem; margin-top: 15px; line-height: 1.6; text-align: justify; flex-grow: 1; }
+        footer { text-align: center; margin-top: 50px; padding: 20px; border-top: 2px solid var(--main-color); background: #fff; }
+        footer a { margin: 0 15px; color: #a52a2a; font-weight: bold; text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>British Library: 10 İkonik Eser</h1>
+        <p>Bilgi ve Belge Yönetimi Semantik Web Projesi | HTML - XML - RDF - JS</p>
+    </header>
+
+    <div class="grid">
+        <article class="card">
+            <img src="Diamonsutra.jpg" alt="Diamond Sutra">
+            <h3>Diamond Sutra</h3>
+            <span class="tag">MS 868 | Woodblock Print</span>
+            <p class="desc">Dünyanın bilinen en eski tarihli, tam ve basılı kitabıdır. Matbaa teknolojisinin Asya'daki gelişiminin en kıymetli tanığıdır.</p>
+        </article>
+
+        <article class="card">
+            <img src="Magnacarta.jpg" alt="Magna Carta">
+            <h3>Magna Carta</h3>
+            <span class="tag">1215 | Hukuk Belgesi</span>
+            <p class="desc">Kralın yetkilerini sınırlayarak modern demokrasinin temelini atmıştır. Hukuk tarihinin en önemli köşe taşlarından biridir.</p>
+        </article>
+
+        <article class="card">
+            <img src="Codexarundel.jpg" alt="Codex Arundel">
+            <h3>Codex Arundel</h3>
+            <span class="tag">1508 | El Yazması</span>
+            <p class="desc">Leonardo da Vinci'nin bilimsel not defteridir. Ünlü "ayna yazısı" ile tutulmuş notlarını ve detaylı çizimlerini içerir.</p>
+        </article>
+
+        <article class="card">
+            <img src="Beowulf Manuscript.jpg" alt="Beowulf">
+            <h3>Beowulf</h3>
+            <span class="tag">MS 1000 | Epik Destan</span>
+            <p class="desc">Anglo-Sakson edebiyatının en önemli destanıdır. Kahraman Beowulf'un canavarlarla olan efsanevi mücadelesini anlatır.</p>
+        </article>
+
+        <article class="card">
+            <img src="Lindisfarne Gospels.jpg" alt="Lindisfarne Gospels">
+            <h3>Lindisfarne Gospels</h3>
+            <span class="tag">MS 715 | Dini Sanat</span>
+            <p class="desc">Erken Orta Çağ'ın en süslü el yazması dini metnidir. Kelt ve Roma sanat stillerini birleştiren dev bir hazinedir.</p>
+        </article>
+
+        <article class="card">
+            <img src="Gutenberg Bible.jpg" alt="Gutenberg Bible">
+            <h3>Gutenberg Bible</h3>
+            <span class="tag">1455 | Matbaa Devrimi</span>
+            <p class="desc">Avrupa'da hareketli harflerle basılan ilk kitaptır. Bilgiye erişimde devrim yaratarak modern dünyayı başlatmıştır.</p>
+        </article>
+
+        <article class="card">
+            <img src="Shakespeare's First Folio.jpg" alt="Shakespeare Folio">
+            <h3>Shakespeare's First Folio</h3>
+            <span class="tag">1623 | Edebiyat Klasikleri</span>
+            <p class="desc">William Shakespeare'in oyunlarının toplandığı ilk baskıdır. Dünya edebiyat tarihinin en prestijli kitaplarından biridir.</p>
+        </article>
+
+        <article class="card">
+            <img src="Codex Sinaiticus.jpg" alt="Codex Sinaiticus">
+            <h3>Codex Sinaiticus</h3>
+            <span class="tag">MS 350 | Teoloji</span>
+            <p class="desc">Dünyanın en eski tam İncil nüshalarından biridir. Metin eleştirisi ve teoloji için paha biçilemez bir kaynak niteliğindedir.</p>
+        </article>
+
+        <article class="card">
+            <img src="Sherlock Holmes MS.jpg" alt="Sherlock Holmes">
+            <h3>Sherlock Holmes MS</h3>
+            <span class="tag">1904 | Modern Edebiyat</span>
+            <p class="desc">Arthur Conan Doyle'un orijinal el yazısı notlarını içerir. Ünlü dedektifin hikayelerinin mutfağına ışık tutmaktadır.</p>
+        </article>
+
+        <article class="card">
+            <img src="The Beatles Lyrics.jpg" alt="The Beatles">
+            <h3>The Beatles Lyrics</h3>
+            <span class="tag">1960s | Popüler Kültür</span>
+            <p class="desc">Lennon ve McCartney'nin el yazısı şarkı sözü taslaklarıdır. Modern arşivciliğin kapsamını sergileyen eşsiz belgelerdir.</p>
+        </article>
+    </div>
+
+    <footer>
+        <p><strong>Bilgi Katmanları:</strong> 
+            <a href="library.xml" target="_blank">[XML Yapılandırılmış Veri]</a> 
+            <a href="library.rdf" target="_blank">[RDF Semantik Veri]</a>
+        </p>
+        <p style="font-size: 0.8rem; color: #777;">Hacettepe Üniversitesi BBY - Yılmaz Kabayel © 2026</p>
+    </footer>
+
+    <script>
+        // JavaScript ile etkileşim katmanı
+        document.querySelectorAll('.card').forEach(card => {
+            card.onclick = function() {
+                const baslik = this.querySelector('h3').innerText;
+                alert(baslik + " eseri için semantik veri seti (RDF) kütüphanemizde mevcuttur!");
+            };
+        });
+    </script>
+</body>
+</html>

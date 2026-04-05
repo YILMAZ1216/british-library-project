@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/1">
+        <dc:title>Diamond Sutra</dc:title>
+        <dc:date>MS 868</dc:date>
+        <dc:type>Woodblock Print</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/2">
+        <dc:title>Magna Carta</dc:title>
+        <dc:date>1215</dc:date>
+        <dc:type>Hukuk Belgesi</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/3">
+        <dc:title>Codex Arundel</dc:title>
+        <dc:date>1508</dc:date>
+        <dc:type>El Yazması</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/4">
+        <dc:title>Beowulf</dc:title>
+        <dc:date>MS 1000</dc:date>
+        <dc:type>Epik Destan</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/5">
+        <dc:title>Codex Sinaiticus</dc:title>
+        <dc:date>MS 350</dc:date>
+        <dc:type>Teoloji</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/6">
+        <dc:title>Gutenberg Bible</dc:title>
+        <dc:date>1455</dc:date>
+        <dc:type>Matbaa</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/7">
+        <dc:title>Lindisfarne Gospels</dc:title>
+        <dc:date>MS 715</dc:date>
+        <dc:type>Dini Sanat</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/8">
+        <dc:title>Shakespeare's First Folio</dc:title>
+        <dc:date>1623</dc:date>
+        <dc:type>Edebiyat</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/9">
+        <dc:title>Sherlock Holmes MS</dc:title>
+        <dc:date>1904</dc:date>
+        <dc:type>Modern Edebiyat</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://yunus.hacettepe.edu.tr/~yilmaz.kabayel/item/10">
+        <dc:title>The Beatles Lyrics</dc:title>
+        <dc:date>1960s</dc:date>
+        <dc:type>Popüler Kültür</dc:type>
+        <dc:publisher>British Library</dc:publisher>
+    </rdf:Description>
+
+</rdf:RDF>
